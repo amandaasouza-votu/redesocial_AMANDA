@@ -1,0 +1,58 @@
+body{
+    background-image:url(/_images/Turquoise\ Tropical\ Water.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    display: flex;
+    flex-wrap: wrap;
+}
+.perfil{
+    border-radius: 360px;
+    width: 120px;
+    height: 120px;
+}
+.divsoria{
+    background-color: rgba(247, 159, 243, 0.678);
+    height: 520px;
+    width: 200px;
+    border-radius: 20px;
+    margin: 0px;
+    padding: 10px;
+    text-align: center;
+}
+.opcoes img{
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
+    margin: 5px;
+}
+.opcoes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+}
+p{
+    text-align: justify;
+    font-size: 12px;
+    margin: 10px;
+}
+h4{
+    text-align: center;
+}
+.fotinha{
+    width: 780px;
+    height: 280px;
+    margin: 20px;
+    border-radius: 20px;
+}
+.divisoria{
+    background-color: rgba(250, 235, 215, 0.473);
+    border-radius: 20px;
+    width: 830px;
+    margin-left: 10px;
+}
+footer{
+    font-size: 10px;
+    text-align: center;
+    margin-left: 550px;
+}
